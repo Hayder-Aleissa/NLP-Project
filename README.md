@@ -90,3 +90,11 @@ We work with three labeled datasets provided by the course instructor:
 - Some tasks include visualization of performance across configurations
 
 ---
+## Course Information
+
+- **Course**: ICS 472 – Natural Language Processing  
+- **Institution**: King Fahd University of Petroleum and Minerals  
+- **Term**: Second Semester, 2024–2025 (242)
+
+## Licensing
+This repository is developed as part of the KFUPM ICS 472 course (semester 242) and is intended solely for educational purposes.
